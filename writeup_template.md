@@ -21,11 +21,11 @@ The goals / steps of this project are the following:
 
 [cimage1]: ./my_output/camera_cal/calibration5.jpg "calibration output"
 [cimage2]: ./camera_cal/calibration5.jpg "calibration input"
-[inimage] ./test_images/test3.jpg "input image"
-[edgesimage] ./my_output/edges.jpg "edges image"
-[perspectiveimage] ./my_output/perspective_edges.jpg "perspective edges image"
-[perlanepixelimage] ./my_output/per_lane_pixels.jpg "Each lane after perspective transform"
-[outputimage] ./my_output/output.jpg "Final output"
+[inimage]: ./test_images/test3.jpg "input image"
+[edgesimage]: ./my_output/edges.jpg "edges image"
+[perspectiveimage]: ./my_output/perspective_edges.jpg "perspective edges image"
+[perlanepixelimage]: ./my_output/per_lane_pixels.jpg "Each lane after perspective transform"
+[outputimage]: ./my_output/output.jpg "Final output"
 
 [image1]: ./examples/undistort_output.png "Undistorted"
 [image2]: ./test_images/test1.jpg "Road Transformed"
@@ -43,7 +43,7 @@ The goals / steps of this project are the following:
 
 ### Writeup / README
 
-## Code - /solution.py.ipynb
+### All Code - ./solution.py.ipynb [link](./solution.py.ipynb)
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.  [Here](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md) is a template writeup for this project you can use as a guide and a starting point.  
 
