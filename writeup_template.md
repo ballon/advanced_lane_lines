@@ -24,7 +24,7 @@ The goals / steps of this project are the following:
 [inimage]: ./test_images/test3.jpg "input image"
 [edgesimage]: ./my_output/edges.jpg "edges image"
 [perspectiveimage]: ./my_output/perspective_edges.jpg "perspective edges image"
-[perlanepixelimage]: ./my_output/per_lane_pixels.jpg "Each lane after perspective transform"
+[perlanepixelsimage]: ./my_output/per_lane_pixels.jpg "Each lane after perspective transform"
 [outputimage]: ./my_output/output.jpg "Final output"
 
 [image1]: ./examples/undistort_output.png "Undistorted"
