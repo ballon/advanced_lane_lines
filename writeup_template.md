@@ -22,6 +22,7 @@ The goals / steps of this project are the following:
 [cimage1]: ./my_output/camera_cal/calibration5.jpg "calibration output"
 [cimage2]: ./camera_cal/calibration5.jpg "calibration input"
 [inimage]: ./test_images/test3.jpg "input image"
+[undistortedimage]: ./my_output/undistorted_input.jpg "undistorted input image"
 [edgesimage]: ./my_output/edges.jpg "edges image"
 [perspectiveimage]: ./my_output/perspective_edges.jpg "perspective edges image"
 [perlanepixelsimage]: ./my_output/per_lane_pixels.jpg "Each lane after perspective transform"
@@ -67,6 +68,11 @@ Example of distorted and corrected image:
 To demonstrate this step, I will describe how I apply the distortion correction to one of the test images like this one:
 
 ![alt text][inimage]
+
+Corrected:
+
+
+![alt text][undistortedimage]
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
